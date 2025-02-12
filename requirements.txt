@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+joblib
+pickle-mixin
+matplotlib
+seaborn
+yfinance
+scikit-learn  
+requests      
